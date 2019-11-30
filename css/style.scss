@@ -1,0 +1,15 @@
+.right-menu,
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+}
+.menu-items{
+    margin-left: 20px;
+}
+.banner{
+    height:100vh;
+    background-image:url(../images/bg.webp);
+    background-size: cover;
+}
